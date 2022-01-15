@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anna Turbina</title>
+
+    <link rel="stylesheet" type="text/css" href="./css/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.css" rel="stylesheet"/>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+
+
+
+</head>
+<body style='overflow-x:hidden;' class="no-scroll">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+      <div class="navbar-collapse collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-auto" style="font-family: 'Lobster', cursive; font-size: 20px; color:white">
+
+        <li class="nav-item"><a href="#section1" class="nav-link">Начало</a></li>
+        <li class="nav-item"><a href="#section2" class="nav-link">Обо мне</a></li>
+        <li class="nav-item"><a href="#section3" class="nav-link">Образование</a></li>
+        <li class="nav-item"><a href="#section4" class="nav-link">Скиллы</a></li>
+        <li class="nav-item"><a href="#section5" class="nav-link">Работы</a></li>
+        <li class="nav-item"><a href="#section6" class="nav-link">Связь</a></li>
+
+
+        </ul>
+      </div>
+    </nav>
+
+  <div class="con" >  
+
+  <section id="section1" class="vh-100 gradient-custom" style="background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover; background-image: url('./img/section6.jpg');">
+    
+<div class="container" data-aos="fade-down">
+    <figure class="text-center" style="padding-top: 25%; color: white;">
+    <blockquote class="blockquote">
+      <p><h3 style="font-family: 'Lobster', cursive; font-size: 45px;">И если это все, что у нас будет, давай возьмём это все. Хочу быть бесстрашной и свободной... Это ведь просто жизнь... Все закончится, и глазом моргнуть не успеешь.</h3></p>
+    </blockquote>
+    <figcaption class="blockquote-footer" style="color: white; font-size: 25px;font-family: 'Lobster', cursive;">
+      Цитата из кники <cite href="https://www.livelib.ru/book/1002921772-v-metre-drug-ot-druga-rejchel-lippinkott">"В метре друг от друга"</cite>
+    </figcaption>
+  </figure>
+</div>
+
+</section>
+
+
+
+<section id="section2" class="vh-100 gradient-custom" style="background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; background-image: url('./img/Rectangle4.jpg');">
+    
+    <div class="row">
+    <div class="col">
+
+   <!-- <img src="./img/me/section1.jpg" />-->
+
+   <div class="card" data-aos="fade-down" style="background-color: #252525; width: 80%; margin-left: 30px;">
+      <div class="card-body">
+      <div class="image-wrapper">
+      <div class="image-inner">
+      <img src="./img/me/section1.jpg" alt="" class="round" style="max-width: 600px;">
+      </div>
+    
+      </div>
+      <div class="container text-center">
+        Социальные сети
+        <div class="soc_icons">
+    <a href="#"><i class="fa fa-vk"></i></a>
+    <a href="#"><i class="fa fa-instagram"></i></a>
+    <a href="#"><i class="fa fa-google"></i></a>
+    <a href="#"><i class="fa fa-facebook"></i></a>
+  </div>
+      </div>
+      </div>
+      
+    </div>
+      
+
+
+    </div>
+    <div class="col mr-5" style="color: white;">
+    <p><h3 style="font-family: 'Lobster', cursive; font-size: 45px; margin-top: 80px">Обо мне...</h3></p>
+    <p><h5 style="font-family: 'Lobster', cursive; font-size: 25px; margin-top: 20px">Меня зовут Аня...</h5></p>
+    <p><h5 style="font-family: 'Lobster', cursive; font-size: 25px; margin-top: 20px">Мне 19 годиков...</h5></p>
+    <p><h5 style="font-family: 'Lobster', cursive; font-size: 25px; margin-top:20px">На данный момент я проживаю в городе Томск. Здесь я учусь в Томском Государственном Архитектурно-Строительном Университете, по направлению "Дизайн архитектурной среды."</h5></p>
+    <p><h5 style="font-family: 'Lobster', cursive; font-size: 25px; margin-top: 20px">Однако, мой "дизайн" распрастраняется не только на архитектурную среду... Смотри далее)</h5></p>
+    <p><h5 style="font-family: 'Lobster', cursive; font-size: 25px; margin-top: 20px">На этой странице ты сможешь поближе познакомиться со мной и увидеть мои работы.</h5></p>
+    <p><h5 style="font-family: 'Lobster', cursive; font-size: 25px; margin-top: 20px">Надеюсь тебе понравиться!)</h5></p>
+
+    </div>
+  </div>
+
+
+
+</section>
+
+
+
+
+<section id="section3" class="vh-100 gradient-custom" style="background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; background-image: url('./img/section4.jpg'); padding-top: 50px;">
+    
+
+    <div class="container" data-aos="fade-down">
+<div class="row">
+
+ <div class="col-md-12">
+ <div class="main-timeline">
+ <div class="timeline">
+ <div class="timeline-content">
+ <div class="circle"><span><i class="fa fa-globe"></i></span></div>
+ <div class="content">
+ <span class="year">2009 - 2018</span>
+ <h4 class="title">Основное общее образование</h4>
+ <p class="description">
+ Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описанием
+ </p>
+ <div class="icon"><span></span></div>
+ </div>
+ </div>
+ </div>
+
+ <div class="timeline">
+ <div class="timeline-content">
+ <div class="circle"><span><i class="fa fa-rocket"></i></span></div>
+ <div class="content">
+ <span class="year">2018 - 2020</span>
+ <h4 class="title">Среднее (полное) общее образование</h4>
+ <p class="description">
+ Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описанием
+ </p>
+ <div class="icon"><span></span></div>
+ </div>
+ </div>
+ </div>
+
+ <div class="timeline">
+ <div class="timeline-content">
+ <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+ <div class="content">
+ <span class="year">2020 - 2025</span>
+ <h4 class="title">Высшее образование</h4>
+ <p class="description">
+ Описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описание описанием
+ </p>
+ <div class="icon"><span></span></div>
+ </div>
+ </div>
+ </div>
+
+
+
+</div><!-- ./row -->
+</div><!-- ./container -->
+
+
+    
+
+</section>
+
+
+
+<section id="section4" class="vh-100 gradient-custom pt-5" style="background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; background-image: url('./img/section3.jpg');">
+    
+    <div class="row">
+
+    <div class="col-md-6" style="color: white;" data-aos="fade-down">
+
+    <div class="card" style="width: 100%; background-color: #252525;">
+    <div class="card-body">
+      <h5 class="card-title" style="font-family: 'Lobster', cursive; font-size: 45px; margin-top: 10px">Мои умения...</h5>
+
+      <p class="card-text pb-4">Небольшой формат, который отображает мои качества и умения....</p>
+
+
+      <h5 class="text-center" style="color:#fff">Фотографии</h5>
+
+      <div class="progressbar-title red">
+      <div class="progress">
+      <div class="progress-bar" role="progressbar" style="width: 80%;"></div>
+      </div>
+      <span class="progressbar-value">80%</span>
+      </div>
+
+      <h5 class="text-center" style="color:#fff">Черчение</h5>
+
+
+      <div class="progressbar-title">
+      <div class="progress">
+      <div class="progress-bar" role="progressbar" style="width: 60%;"></div>
+      </div>
+      <span class="progressbar-value">60%</span>
+      </div>
+
+      <h5 class="text-center" style="color:#fff">Рисование</h5>
+
+
+      <div class="progressbar-title orange">
+      <div class="progress">
+      <div class="progress-bar" role="progressbar" style="width: 75%;"></div>
+      </div>
+      <span class="progressbar-value">75%</span>
+      </div>
+
+      <h5 class="text-center" style="color:#fff">Создание 3D моделей</h5>
+
+
+      <div class="progressbar-title bts">
+      <div class="progress">
+      <div class="progress-bar" role="progressbar" style="width: 82%;"></div>
+      </div>
+      <span class="progressbar-value">82%</span>
+      </div>
+
+
+    </div></div></div>
+
+
+
+
+    <div class="col-md-6" data-aos="fade-down">
+
+   <!-- <img src="./img/me/section1.jpg" />-->
+
+   <div class="card" data-aos="fade-down" style="background-color: #252525; width: 80%; margin-left: 30px;">
+      <div class="card-body">
+      <div class="image-wrapper">
+      <div class="image-inner">
+      <img src="./img/me/section2.jpg" alt="" class="round" style="max-width: 600px;">
+      </div>
+    
+      </div>
+      <div class="container text-center">
+        Социальные сети
+        <div class="soc_icons">
+    <a href="#"><i class="fa fa-vk"></i></a>
+    <a href="#"><i class="fa fa-instagram"></i></a>
+    <a href="#"><i class="fa fa-google"></i></a>
+    <a href="#"><i class="fa fa-facebook"></i></a>
+  </div>
+      </div>
+      </div>
+      
+    </div>
+      
+
+
+    </div>
+    
+  </div>
+
+
+</section>
+
+
+
+
+<section id="section5" class="vh-100 gradient-custom" style="background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; background-image: url('./img/section2.jpg'); padding-top: 150px;">
+
+<div id="carousel" data-aos="fade-down">
+<figure id="spinner">
+<figure>
+  <img src="./upload/JIw6wq-gxPU.jpg" alt="A danseur in brisé (a leap with the legs together) on a blue background">
+    <figcaption>Anton Ploom</figcaption>
+</figure>
+<figure>
+  <img src="./upload/KLopCj_rvJ8.jpg" alt="">
+    <figcaption>Annija Kopshtale</figcaption>
+</figure>
+<figure>
+  <img src="./upload/Sqq_66zq5aU.jpg" alt="">
+    <figcaption>Daria Elmakova</figcaption>
+  </figure>
+   <figure>
+     <img src="./upload/NINSAjfY2AU.jpg" alt="">
+<figcaption>Margaret Rodchenkova</figcaption>
+</figure>
+<figure>
+  <img src="./upload/fQ7jJKD84ck.jpg" alt="">
+<figcaption>Marta Ozolina</figcaption>
+</figure>
+<figure>
+  <img src="./upload/DYSvZtE3LoM.jpg" alt="">
+<figcaption>Victoria Ananyan</figcaption>
+</figure>
+  <figure>
+    <img src="./upload/JS4B4FgHq0M.jpg" alt="A ballerina photographed in ">
+<figcaption>Ekaterina Gusarova</figcaption>
+</figure>
+</div>
+<span style=float:left class=ss-icon onclick="galleryspin('-')">&lt;</span>
+<span style=float:right class=ss-icon onclick="galleryspin('')">&gt;</span>
+
+
+
+
+</section>
+
+
+
+<section id="section6" class="vh-100 gradient-custom pt-5" style="background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; background-image: url('./img/section1.jpg');">
+  <div class="card" style="width: 60%; margin: 0 auto; background-color: #303030; color: #fff" data-aos="fade-down">
+  <div class="card-body">
+    <h5 class="card-title">Форма обратной связи</h5>
+    <p class="card-text">Если в процессе просмотра вас заинтересовала данная информация, можете связаться со мной!</p>
+    <div class="row">
+      <div class="col-md-4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" width="300px" style="margin: 40px auto;">
+  </div>
+
+  <div class="col-md-8">
+  <form action="./mail.php" method="post">
+<div class="form-group">
+   <label for="name">Ваше имя:</label>
+   <input type="name" name="name" class="form-control" id="name" placeholder="Тут имя">
+</div>
+<div class="form-group">
+   <label for="email1">Почта:</label>
+   <input type="email" name="email" class="form-control" id="email1" placeholder="Тут почта">
+</div>
+<div class="form-group">
+   <label for="message">Сообщение:</label>
+   <textarea class="form-control" id="message" name="message" rows="3" style="max-height: 500px; height: 200px" placeholder="Тут ваше обращение"></textarea>
+</div>
+   <button type="submit" class="btn btn-info">Отправить</button>
+</form>
+
+  </div>
+</div>
+</div>
+</div>
+</section>
+<div id="scroll-top">
+  <button><span data-hover="Наверх"><i class="fa fa-arrow-up"></i></span></button>
+</div>
+
+</div>
+
+
+    <nav class="navbar navbar-inverse-lg bg-dark">
+    <div class="navbar-brand" style="color: white;">
+        <i class="fa fa-globe" aria-hidden="true"></i> Anna Turbina
+    </div>
+      <h9 class="text-light text-center">2022г.</h9>
+      <h9 class="text-light text-center">version 1.0.1</h9>
+    </nav>
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script src="./js/easings.min.js"></script>
+<script src="./js/scrolloverflow.min.js"></script>
+<script src="./js/fullPage.min.js"></script>
+<script>
+$(document).ready(function() {
+    $('#fullpage').fullpage();
+});  
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- MDB -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.js"></script>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script src="./js/scrollTop.js"></script>
+
+<script>
+  AOS.init();
+</script>
+
+<script type="text/javascript">
+ $(document).ready(function(){
+    $("#menu").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+});
+</script>
+
+
+
+
+
+
+<script>
+
+// forEach method
+var forEach = function(array, callback, scope) {
+  for (var i = 0; i < array.length; i++) {
+    callback.call(scope, i, array[i]);
+  }
+};
+
+var spinner = document.querySelector("#spinner"),
+  angle = 0,
+  images = document.querySelectorAll("#spinner figure"),
+  numpics = images.length,
+  degInt = 360 / numpics,
+  start = 0,
+  current = 1;
+
+forEach(images, function(index, value) {
+  images[index].style.webkitTransform = "rotateY(-" + start + "deg)";
+  images[index].style.transform = "rotateY(-" + start + "deg)";
+  images[index].addEventListener("click", function() {
+    if (this.classList.contains('current')) {
+      this.classList.toggle("focus");
+    }
+  })
+  start = start + degInt;
+});
+
+function setCurrent(current) {
+  document.querySelector('figure#spinner figure:nth-child(' + current + ')').classList.add('current');
+}
+
+function galleryspin(sign) {
+  forEach(images, function(index, value) {
+    images[index].classList.remove('current');
+    images[index].classList.remove('focus');
+    images[index].classList.remove('caption');
+  })
+
+  if (!sign) {
+    angle = angle + degInt;
+    current = (current + 1);
+    if (current > numpics) {
+      current = 1;
+    }
+  } else {
+    angle = angle - degInt;
+    current = current - 1;
+    if (current == 0) {
+      current = numpics;
+    }
+  }
+
+  spinner.setAttribute("style", "-webkit-transform: rotateY(" + angle + "deg); transform: rotateY(" + angle + "deg)");
+  setCurrent(current);
+}
+
+document.body.onkeydown = function(e) {
+  switch (e.which) {
+    case 37: // left cursor
+      galleryspin('-');
+      break;
+
+    case 39: // right cursor
+      galleryspin('');
+      break;
+
+    case 90: // Z - zoom image in forefront image
+      document.querySelector('figure#spinner figure.current').classList.toggle('focus');
+      break;
+
+    case 67: // C - show caption for forefront image
+      document.querySelector('figure#spinner figure.current').classList.toggle('caption');
+      break;
+
+    default:
+      return; // exit this handler for other keys
+  }
+  e.preventDefault();
+}
+
+function mouseMove() {
+  
+}
+
+function mouseUp() {
+  document.removeEventListener("mousemove", mouseMove, false);
+  document.removeEventListener("mouseup", mouseUp, false);
+}
+
+spinner.addEventListener("mousedown", function(e) {
+  var startX = e.pageX;
+  
+  document.addEventListener("mousemove", mouseMove, false);
+  document.addEventListener("mouseup", mouseUp, false);
+}, false);
+
+setCurrent(1);
+
+</script>
+
+
+
+
+</body>
+</html>
