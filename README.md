@@ -4,6 +4,6 @@
 
 ![preview_portfAnna](img/preview_portAnna.png)
 
-Готовую работы вы можете посмотреть, перейдя по этой [ссылке](https://shadowhd-bit.github.io/bootstrap_portfolio_site_for_anna/)...
+Готовую работы вы можете посмотреть, перейдя по этой [ссылке](https://romantic-hopper-3150f2.netlify.app/)...
 
 Надеюсь тебе понравиться!
